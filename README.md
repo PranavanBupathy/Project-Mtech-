@@ -18,7 +18,7 @@ Please check the file named : (Bluetooth RC Car with obstacle avoidance)
 ![image](https://user-images.githubusercontent.com/55647096/135766798-e2baacd3-fbd1-4d7e-bb1a-9bd9ce265c8c.png)
 ![image](https://user-images.githubusercontent.com/55647096/135766800-d2652f17-e4af-449f-aadf-6c72741c2b0a.png)
 ![image](https://user-images.githubusercontent.com/55647096/135766804-a5e87216-21dd-41d6-a6d2-f4ff8efe5e06.png)
-![image](https://user-images.githubusercontent.com/55647096/135766814-e1ba06ea-0d37-4de4-84e9-f676b80d851d.png)
+
 ![image](https://user-images.githubusercontent.com/55647096/135766816-8ebbf3f7-256d-45bf-ba61-d500ef1d2413.png)
 ![image](https://user-images.githubusercontent.com/55647096/135766820-221b6587-97e0-440e-ae48-3e8e82859dca.png)
 
